@@ -1,2 +1,2 @@
 # 439-Project-2
-TM Cella Rule
+TM Cellular Automata Rule 150
