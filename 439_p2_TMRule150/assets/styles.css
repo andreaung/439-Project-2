@@ -1,0 +1,14 @@
+/*styles.css
+Team AS - Andrea Ung andreaung@csu.fullerton.edu; Sarah Nuno saritanu@csu.fullerton.edu
+File Description: Helps align the html webpage to the center and provides a font style for the title.
+*/
+
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+canvas {
+	background-color: black;
+}
+
+
