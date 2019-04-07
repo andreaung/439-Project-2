@@ -7,8 +7,24 @@ body {
   text-align: center;
   font-family: sans-serif;
 }
-canvas {
-	background-color: black;
+#canvas {
+    display: grid;
+    width: 410px;
+	height: 200px;
+	border: 1px solid black;
 }
+
+#canvas2 {
+    display: grid;
+    width: 410px;
+	height: 200px;
+	border: 1px solid black;
+}
+
+	
+
+
+
+
 
 
